@@ -2,8 +2,11 @@
 
 This is an example project for building an unreal FPS with AWS gamelift
 
+# Update 9/12/22
 
-# How to build for server
+New way to install AWS server and client sdks with unreal: https://aws.amazon.com/blogs/gametech/how-to-integrate-the-aws-c-sdk-with-unreal-engine/
+
+# How to build for server (OLD)
 
 In VS 2019, make sure you have the latest .NET Framwork SDK (4.8) and all previous targeting packs
 Make sure you also have cmake downloaded and added to your environment paths. In command prombt, make sure "cmake --help" works
